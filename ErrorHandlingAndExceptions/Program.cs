@@ -9,7 +9,7 @@
 // ThrowSnake();
 // ThrowSnakeNotSupported();
 // ThrowSnakeAvoid();
-ThrowSnakeCleanerCode();
+// ThrowSnakeCleanerCode();
 
 
 
@@ -115,7 +115,6 @@ static void Flow()
 }
 
 // CATCH CATCH CATCH ===================================================
-
 static void CatchCatchCatch()
 {
     int[] arr = { 19, 0, 75, 52 };
